@@ -39,7 +39,7 @@ class Programbody extends StatelessWidget {
                               offset: Offset(0, 15),
                               color: Colors.black12)
                         ]),
-                    height: 166,
+                    height: 166.1,
                   )
                 ],
               ),
