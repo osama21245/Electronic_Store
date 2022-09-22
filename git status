@@ -1,0 +1,29 @@
+[33mcommit 6c00a4a26fb89c79d6bcc74aa2878e00e87f6913[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: osama <osamagamil2070@gmail.com>
+Date:   Thu Sep 22 07:09:21 2022 +0400
+
+    add all product and add add first step at details screen
+
+[33mcommit ee92a9a4946abbe77028608ae53fc29cd947181d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: osama <osamagamil2070@gmail.com>
+Date:   Tue Sep 20 07:40:11 2022 +0400
+
+    add first product
+
+[33mcommit 62d0d2ee88819e788030b8774116076a1168ad82[m
+Author: osama <osamagamil2070@gmail.com>
+Date:   Mon Sep 19 07:15:49 2022 +0400
+
+    add the first details to the body
+
+[33mcommit e099705dae99f06f44b5ea5f181daccbe8fa8536[m
+Author: osama <osamagamil2070@gmail.com>
+Date:   Mon Sep 19 07:09:37 2022 +0400
+
+    body1
+
+[33mcommit cc17125b700bc7d8a6955dfc8d1b5697e1a5766e[m
+Author: osama <osamagamil2070@gmail.com>
+Date:   Mon Sep 19 05:36:35 2022 +0400
+
+    starting files / appBar
